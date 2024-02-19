@@ -1,4 +1,4 @@
-### Hi Everyone 🙂
+# Hi Everyone 🙂
 I am an aspiring automation tester (Python, Selenium).
 
 ## Connect with me:
